@@ -1,0 +1,20 @@
+﻿  uic BearingBlockdialog.ui
+  uic camerLocatonDialog.ui
+  uic ChangeFineScaleDialog.ui
+  uic fragmentDialog.ui
+  uic GearBoxdialog.ui
+  uic Geardialog.ui
+  uic modleSettingDialog.ui
+  uic QtGuiApplication1.ui
+  uic readFileDialog.ui
+  uic ReducerDialog.ui
+  uic sensitiveSettingDialog.ui
+  uic singlePic.ui
+  rcc image\image.qrc
+   Could not create output file
+  rcc shader\shader.qrc
+  moc QtGuiApplication1.h
+  moc win.h
+  moc BearingBlockdialog.h
+  moc Geardialog.h
+  moc ReducerDialog.h

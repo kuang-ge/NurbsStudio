@@ -1,0 +1,7 @@
+﻿  'WHERE' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+  Reading Qt configuration (D:/Qt/Qt/5.9/msvc2017_64/bin/qmake)
+  stdafx.cpp
+e:\quadapp\models\qtguiapplication1\xiostream.h(396): error C3646: “m_file”: 未知重写说明符
+e:\quadapp\models\qtguiapplication1\xiostream.h(396): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\quadapp\models\qtguiapplication1\xiostream.h(384): error C2065: “m_file”: 未声明的标识符

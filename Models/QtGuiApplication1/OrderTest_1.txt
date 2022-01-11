@@ -1,0 +1,57 @@
+PN 0
+PI 0
+
+PN 1
+PI 0
+
+PN 2
+PI 0
+
+PN 3
+PI 0
+
+PN 4
+PI 0
+
+PN 5
+PI 0
+
+PN 6
+PI 0
+
+PN 7
+PI 0
+
+PN 8
+PI 0
+
+PN 9
+PI 0
+
+PN 10
+PI 0
+
+PN 11
+PI 0
+
+PN 12
+PI 0
+
+PN 13
+PI 0
+
+PN 14
+PI 0
+
+PN 15
+PI 0
+
+PN 16
+PI 0
+
+PN 17
+PI 0
+
+PN 18
+PI 0
+

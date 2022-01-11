@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtGuiApplication1", "QtGuiApplication1\QtGuiApplication1.vcxproj", "{2C4DE0C3-3366-4323-9BBC-309D303BFCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4DE0C3-3366-4323-9BBC-309D303BFCAA}.Debug|x64.ActiveCfg = Debug|x64
+		{2C4DE0C3-3366-4323-9BBC-309D303BFCAA}.Debug|x64.Build.0 = Debug|x64
+		{2C4DE0C3-3366-4323-9BBC-309D303BFCAA}.Release|x64.ActiveCfg = Release|x64
+		{2C4DE0C3-3366-4323-9BBC-309D303BFCAA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193F0FC7-B22A-4F31-A968-B17B926AA3EA}
+	EndGlobalSection
+EndGlobal
